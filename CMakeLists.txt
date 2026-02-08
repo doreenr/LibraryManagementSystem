@@ -14,4 +14,8 @@ add_executable(LibraryManagementSystem
     PremiumMember.cpp
     PremiumMember.h
     AbstractLibrary.h
+    BookRepository.cpp
+    BookRepository.h
+    MyLibrary.cpp
+    MyLibrary.h
 )
