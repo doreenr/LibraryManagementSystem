@@ -1,4 +1,3 @@
-
 cmake_minimum_required(VERSION 3.31)
 project(LibraryManagementSystem)
 
@@ -14,5 +13,5 @@ add_executable(LibraryManagementSystem
     RegularMember.h
     PremiumMember.cpp
     PremiumMember.h
+    AbstractLibrary.h
 )
-
