@@ -1,4 +1,8 @@
-#ifndef MYLIBRARY_H
+//
+// MyLibrary.h
+// Library Management System
+//
+
 #define MYLIBRARY_H
 #include <vector>
 #include <string>

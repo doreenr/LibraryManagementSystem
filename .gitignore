@@ -1,13 +1,21 @@
 # Build directories
 build/
 cmake-build-*/
+out/
 
 # IDE files
 .idea/
 .vscode/
 *.user
+*.suo
+*.sln
+*.vcxproj*
 
 # Compiled files
 *.o
+*.obj
 *.exe
+*.out
+*.app
+
 
